@@ -1,8 +1,8 @@
 <?php
 
 $name = "Talitha";
-
-
+$major = "Informatika";
+$nim = "H1D024122";
 ?>
 
 <!DOCTYPE html>
@@ -14,5 +14,7 @@ $name = "Talitha";
 </head>
 <body>
     <h1> Halo nama saya <?php echo $name ?> </h1>
+    <h1> Saya dari jurusan <?php echo $major ?> </h1>
+    <h1> NIM saya <?php echo $nim ?> </h1>
 </body>
 </html>
